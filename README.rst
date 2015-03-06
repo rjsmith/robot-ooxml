@@ -8,7 +8,9 @@ into the automated testing tool RobotFramework.
 Status: EXPERIMENTAL
 
 Dependent on a patch to Robot Framework that has not yet been added to the main build.
-See: http://code.google.com/p/robotframework/issues/detail?id=1283
+See: https://github.com/robotframework/robotframework/issues/1283
+
+(Originally posted on Google Groups here: http://code.google.com/p/robotframework/issues/detail?id=1283)
 
 This only works when running Robot Framework using the python interpreter (see https://github.com/rjsmith/robot-ooxml/issues/1 ).
 
